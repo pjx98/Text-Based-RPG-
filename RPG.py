@@ -1,29 +1,3 @@
-# Features:
-#     - Text-based adventure game
-#     - replayablility
-#     - npc shop to buy weapons
-#     - A big map shaped like a map 
-#     - defeat boss to acquire a key
-#     - 3 keys to unlock end-game boss
-#     - Congratz
-
-# Story:
-
-# You are a knight in the kingdom of Mario. One day, the evil Dark King kidnapped the princess
-# of your kingdom. The King of Mario has ordered you to save the princess from the Dark Lord's
-# clutches and bring her back safely. However, in order to find the Dark King, you need to 
-# find 3 keys from each of his 3 generals which will unlock the door to his personal room where
-# you can defeat him and bring back the princess.
-
-# How the game works:
-#     - Maze format; use NSEW to navigate (state machine)
-#     - player can encounter chest, enemy and finally the boss
-#     - need a certain luck(random module) to open chest and kill enemy
-#     - gold dropped from chest and enemy can be used to buy weapons at npc shop
-#     - boss at the end of the maze
-#     - drops key
-#     - repeat x2 for other zone
-    
 import random
 from libdw import sm as sm
 
