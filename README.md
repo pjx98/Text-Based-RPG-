@@ -295,7 +295,3 @@ def Boss_defeat(self): ## Enemy General
             return False
 ```
 
-# **Credits**
-
-* ## **Peh Jing Xiang 1004276 F04**
-
