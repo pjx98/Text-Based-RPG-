@@ -13,8 +13,6 @@ you can defeat him and rescue the princess.
 - Simple game available for all ages
 
 
-# **How To Play**
-
 ## **General Controls**
 - Use N S W E to move in North, South, East, West directions 
 - Follow the instructions during the game
