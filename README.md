@@ -44,9 +44,6 @@ Press W to move West
 - Defeat him to rescue the princess
 
 
-
-# **Code Explanation**
-
 ## **Libaries & Modules**
 * [Libdw](https://github.com/kurniawano/libdw) - The library used
 
