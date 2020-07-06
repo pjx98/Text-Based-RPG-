@@ -1,5 +1,3 @@
-## **About The Game**
-
 ## **Story**
 
 You are a knight in the kingdom of Mario. One day, the evil Dark King kidnapped the princess
